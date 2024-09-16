@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: green;
+    color:black;
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-color: white;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid blue;
+}
+
+
+nav {
+    margin: 20px;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: green;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: black;
+}
+
+section h2 {
+    color: green;
+    border-bottom: 2px solid blueviolet;
+    padding-bottom: 10px;
+}
